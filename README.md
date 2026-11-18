@@ -28,3 +28,4 @@ Frontend: http://localhost:3000 | Backend: http://localhost:8000
 3. "How to prevent potato blight?"
 4. "When should I plant rice?"
 5. "Tomato irrigation best practices?"
+6. "How do I test my soil fertility at home"
